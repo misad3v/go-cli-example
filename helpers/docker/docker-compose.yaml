@@ -1,0 +1,9 @@
+
+version: "3"
+
+services:
+  example-app:
+    build: .
+    container_name: example-app
+    volumes:
+      - ../../:/go/src/
