@@ -1,4 +1,5 @@
-# go-cli-example
+# This is a lab
+Hi, this is a basic lab to introduce some CLI development interfaces using `Cobra` a `Go` library to facilitate the CLI development. 
 
 ## Build
 In order to make this lab works, run the following commands:
@@ -19,3 +20,6 @@ To add a Command Line Interface to a project, do the following:
 4. To add new commands to an existed CLI: `cobra init <command-name>` like: `cobra init bmake`
 <br>
 [click here to get more examples](https://github.com/spf13/cobra)
+
+
+> This tutorial was based in this [video](https://www.youtube.com/watch?v=7Kk7Mp-ukeE&t=314&ab_channel=FullCycle)
